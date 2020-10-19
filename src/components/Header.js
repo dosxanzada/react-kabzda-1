@@ -10,5 +10,3 @@ function Header() {
 }
 
 export default Header;
-
-// let app = document.querySelector("#app");
